@@ -89,7 +89,7 @@ bikeshare/
 Setelah deploy berhasil, aplikasi akan tersedia di:
 
 ```
-[https://bikeshare-pwdk.streamlit.app](https://bikeshare-pwdk.streamlit.app/)
+https://bikeshare-pwdk.streamlit.app/
 ```
 
 ## Model Information
